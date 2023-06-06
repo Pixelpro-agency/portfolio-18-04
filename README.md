@@ -1,6 +1,3 @@
-# Personal-Portfolio-2-starter-pack
-  * https://youtubebinjanportfolio.pages.dev
-
 ## Fonts link
   * https://stijndv.com/fonts/Eudoxus-Sans.css
 
@@ -12,6 +9,3 @@
 ## NodeJS
   * https://nodejs.org/en/download/
   
-## Git
-  * https://git-scm.com/downloads
- 
